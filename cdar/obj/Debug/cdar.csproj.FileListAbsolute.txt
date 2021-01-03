@@ -1,0 +1,7 @@
+D:\projects\changedateandrun\cdar\bin\Debug\cdar.exe
+D:\projects\changedateandrun\cdar\bin\Debug\cdar.pdb
+D:\projects\changedateandrun\cdar\obj\Debug\cdar.csprojAssemblyReference.cache
+D:\projects\changedateandrun\cdar\obj\Debug\cdar.Properties.Resources.resources
+D:\projects\changedateandrun\cdar\obj\Debug\cdar.csproj.GenerateResource.cache
+D:\projects\changedateandrun\cdar\obj\Debug\cdar.exe
+D:\projects\changedateandrun\cdar\obj\Debug\cdar.pdb
